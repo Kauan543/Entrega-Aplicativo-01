@@ -5,4 +5,6 @@ Este repositório contém o código e os materiais referentes ao **Aplicativo 01
 ## Integrantes do Grupo
 
 - **João Alberto François**  
-  GRR20211640  
+  GRR20211640
+  - **Renan Teles de Oliveira**  
+  GRR20246258
