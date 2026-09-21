@@ -6,5 +6,5 @@ Este repositório contém o código e os materiais referentes ao **Aplicativo 01
 
 - **João Alberto François**  
   GRR20211640
-  - **Renan Teles de Oliveira**  
+- **Renan Teles de Oliveira**  
   GRR20246258
